@@ -6,13 +6,13 @@
     },
     {
         "name": "kunal",
-        "roll no": 1234,
+        "roll no": null,
         "marks":20
     },
     {
         "name": "abhishek",
         "roll no": 12345,
-        "marks":null
+        "marks": null
     },
     {
         "name": "praveen",
