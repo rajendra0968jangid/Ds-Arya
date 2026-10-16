@@ -1,0 +1,41 @@
+student_id,student_name,gender,age,class_section,study_hours_per_day,math_score,science_score,english_score,attendance_pct,assessment_date
+ST001, Rahul Sharma ,Male,16,10-A, 2 ,78.0,85,81,92,2025-01-12
+ST002,Priya Verma,Female,15,10-A,5,95.0,91,94,98,2025-01-12
+ST003,Amit Kumar,M,16,10-A,3,65.0,70,68,75,2025-01-13
+ST004,Neha Singh,female,15,10-B,6,88.0,92,90,96,2025-01-13
+ST005,Arjun Mehta,Male,16,10-B, 4,72.0,75,70,80,2025-01-14
+ST006,Sara Khan,F,15,10-B,7,98.0,95,97,99,2025-01-14
+ST007,Rohan Das,Male,16,10-A,1,45.0,52,49,60,2025-01-15
+ST008,Meera Patel,Female,15,10-C,5,84.0,87,89,90,2025-01-15
+ST009,Kabir Joshi,M,16,10-C,3,,73,76,82,2025-01-16
+ST010,Ananya Roy,Female,15,10-C,6,91.0,94,93,97,2025-01-16
+ST011,Vikram Rao,Male,16,10-A,2,58.0,62,61,70,2025-01-17
+ST012,Isha Nair,F,15,10-B, 4 ,79.0,83,80,88,2025-01-17
+ST013,Dev Malhotra,Male,16,10-C,8,89.0,90,92,95,2025-01-18
+ST014,Pooja Iyer,Female,15,10-A,5,86.0,88,87,91,2025-01-18
+ST015,Karan Gill,Male,16,10-B,3,67.0,71,69,77,2025-01-19
+ST016,Tara Bose,Female,15,10-C,7,96.0,97,95,98,2025-01-19
+ST017,Nikhil Jain,M,16,10-A,2,54.0,58,57,65,2025-01-20
+ST018,Simran Kaur,Female,15,10-B,6,90.0,92,91,94,2025-01-20
+ST019,Aditya Sen,Male,16,10-C,4,76.0,79,78,85,2025-01-21
+ST020,Riya Kapoor,F,15,10-A,5,93.0,95,94,97,2025-01-21
+ST021,  Rahul Sharma  ,Male,16,10-A,2,78.0,85,81,92,2025-01-12
+ST022,Farhan Ali,Male,16,10-B,three,74.0,78,76,84,2025-01-22
+ST023,Maya Das,Female,fifteen,10-C,5,87.0,89,88,93,2025-01-22
+ST024,Om Prakash,Male,16,10-A,4,110.0,82,80,86,2025-01-23
+ST025,Lina George,Female,15,10-B,6,-5.0,88,90,92,2025-01-23
+ST026,Yash Thakur,Male,16,10-C,3,70.0,74,72,79,not recorded
+ST027,Zoya Ahmed,Female,15,10-A,5,92.0,96,94,98,2025/01/24
+ST028,Manav Shah,Male,16,10-B,4,81.0,84,83,87,2025-01-24
+ST029,Aarav Bansal,Male,16,10-C,2,63.0,66,64,72,2025-01-25
+ST030,Diya Menon,Female,15,10-A,6,89.0,91,90,95,2025-01-25
+ST031,Ira Chawla,Female,15,10-B,5,85.0,87,86,90,2025-01-26
+ST032,Rehan Sheikh,M,16,10-C,4,77.0,80,79,84,2025-01-26
+ST033,Aditi Rao,Female,15,10-A,5,94.0,93,96,99,2025-01-27
+ST034,Samar Roy,Male,16,10-B,2,59.0,64,62,68,2025-01-27
+ST035,Naina Paul,Female,15,10-C,7,97.0,96,98,100,2025-01-28
+ST036,Ishaan Dutta,Male,16,10-A,3,68.0,72,70,78,2025-01-28
+ST037,Tanya Sethi,Female,15,10-B,6,88.0,90,89,94,2025-01-29
+ST038,Ayaan Mirza,Male,16,10-C,4,73.0,76,75,81,2025-01-29
+ST039,Kavya Pillai,Female,15,10-A,5,91.0,94,92,96,2025-01-30
+ST040,Rudra Bose,Male,16,10-B,1,48.0,55,51,61,2025-01-30
